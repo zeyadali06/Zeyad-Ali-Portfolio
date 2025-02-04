@@ -1,0 +1,101 @@
+{
+    "assets/animations/ComputerAnimation1.json": [
+        "assets/animations/ComputerAnimation1.json"
+    ],
+    "assets/animations/ComputerAnimation2.json": [
+        "assets/animations/ComputerAnimation2.json"
+    ],
+    "assets/images/AndroidLogo.png": [
+        "assets/images/AndroidLogo.png"
+    ],
+    "assets/images/AppleLogo.png": [
+        "assets/images/AppleLogo.png"
+    ],
+    "assets/images/Background.png": [
+        "assets/images/Background.png"
+    ],
+    "assets/images/app_icon.png": [
+        "assets/images/app_icon.png"
+    ],
+    "assets/images/profile_image.jpg": [
+        "assets/images/profile_image.jpg"
+    ],
+    "assets/projectsPrototypes/FashionApp.png": [
+        "assets/projectsPrototypes/FashionApp.png"
+    ],
+    "assets/projectsPrototypes/MealRecommendationApp.png": [
+        "assets/projectsPrototypes/MealRecommendationApp.png"
+    ],
+    "assets/projectsPrototypes/MiniInstapayApp.png": [
+        "assets/projectsPrototypes/MiniInstapayApp.png"
+    ],
+    "assets/projectsPrototypes/TennisApp.png": [
+        "assets/projectsPrototypes/TennisApp.png"
+    ],
+    "assets/projectsPrototypes/ToDoApp.png": [
+        "assets/projectsPrototypes/ToDoApp.png"
+    ],
+    "assets/skillsIcons/Bloc.png": [
+        "assets/skillsIcons/Bloc.png"
+    ],
+    "assets/skillsIcons/Dart.png": [
+        "assets/skillsIcons/Dart.png"
+    ],
+    "assets/skillsIcons/Firebase.png": [
+        "assets/skillsIcons/Firebase.png"
+    ],
+    "assets/skillsIcons/Flutter.png": [
+        "assets/skillsIcons/Flutter.png"
+    ],
+    "assets/skillsIcons/Git.png": [
+        "assets/skillsIcons/Git.png"
+    ],
+    "assets/skillsIcons/GitHub.png": [
+        "assets/skillsIcons/GitHub.png"
+    ],
+    "assets/skillsIcons/Java.png": [
+        "assets/skillsIcons/Java.png"
+    ],
+    "assets/skillsIcons/Jira.png": [
+        "assets/skillsIcons/Jira.png"
+    ],
+    "assets/skillsIcons/Kotlin.png": [
+        "assets/skillsIcons/Kotlin.png"
+    ],
+    "assets/skillsIcons/Postman.png": [
+        "assets/skillsIcons/Postman.png"
+    ],
+    "assets/skillsIcons/Socket.io.png": [
+        "assets/skillsIcons/Socket.io.png"
+    ],
+    "assets/skillsIcons/Trello.png": [
+        "assets/skillsIcons/Trello.png"
+    ],
+    "fonts/CascadiaMonoPL-Bold.otf": [
+        "fonts/CascadiaMonoPL-Bold.otf"
+    ],
+    "fonts/CascadiaMonoPL-ExtraLight.otf": [
+        "fonts/CascadiaMonoPL-ExtraLight.otf"
+    ],
+    "fonts/CascadiaMonoPL-Light.otf": [
+        "fonts/CascadiaMonoPL-Light.otf"
+    ],
+    "fonts/CascadiaMonoPL-Regular.otf": [
+        "fonts/CascadiaMonoPL-Regular.otf"
+    ],
+    "fonts/CascadiaMonoPL-SemiBold.otf": [
+        "fonts/CascadiaMonoPL-SemiBold.otf"
+    ],
+    "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
+        "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+    ],
+    "packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": [
+        "packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf"
+    ],
+    "packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": [
+        "packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf"
+    ],
+    "packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": [
+        "packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf"
+    ]
+}
